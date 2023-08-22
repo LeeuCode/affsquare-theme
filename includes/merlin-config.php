@@ -122,9 +122,9 @@ function lc_wizard_import_files()
 	return array(
 		array(
 			'import_file_name' => 'Demo Import 1',
-			'import_file_url' => 'https://leeucode.site/wp/data/affsquarey/content.xml',
-			'import_widget_file_url'     => 'https://leeucode.site/wp/data/affsquarey/widgets.wie',
-			'import_customizer_file_url' => 'https://leeucode.site/wp/data/affsquarey/customizer.dat',
+			'import_file_url' => 'https://leeucode.site/wp/data/affsquare/content.xml',
+			// 'import_widget_file_url'     => 'https://leeucode.site/wp/data/affsquare/widgets.wie',
+			'import_customizer_file_url' => 'https://leeucode.site/wp/data/affsquare/customizer.dat',
 			// 'import_preview_image_url'   => 'https://www.example.com/merlin/preview_import_image1.jpg',
 			'import_notice' => __('A special note for this import.', 'your-textdomain'),
 			'preview_url' => home_url(),
